@@ -1,6 +1,11 @@
+import DashBoard from "./pages/DashBoard"
+
+
 function App() {
   return (
     <>
+      <DashBoard />
+
     </>
   )
 }
